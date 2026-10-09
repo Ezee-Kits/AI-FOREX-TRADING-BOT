@@ -1,4 +1,4 @@
-# 🤖 Advanced Machine Learning Forex Trading Bot
+# 🤖 Advanced AI Forex Trading Bot
 
 > **An advanced Python-based algorithmic Forex trading system that combines MetaTrader 5, Exness market data, machine learning models, technical analysis, ATR-based trade management, multi-symbol execution, threshold optimization, forward testing, risk management, and automated trade execution.**
 
