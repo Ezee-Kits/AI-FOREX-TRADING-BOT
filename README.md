@@ -1960,7 +1960,15 @@ The project combines interests in:
 - Financial Technology
 - Algorithmic Trading
 - Software Development
+- 
+Portfolio:
+https://ezee-kits-portfolio.onrender.com/
 
+GitHub:
+https://github.com/Ezee-Kits/
+
+YouTube:
+https://www.youtube.com/@EzeeKits
 ---
 
 # ⭐ Support the Project
